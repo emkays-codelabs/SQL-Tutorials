@@ -371,5 +371,5 @@ select sum(score) from customers;
 ---
 
 
-Tell me your level: Beginner / Intermediate / Advanced 🚀
+
 
